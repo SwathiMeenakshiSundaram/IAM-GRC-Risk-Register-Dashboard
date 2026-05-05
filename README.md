@@ -163,6 +163,7 @@ Each finding includes:
 ### 1. Clone the repository
 
 git clone https://github.com/SwathiMeenakshiSundaram/IAM-GRC-Risk-Register-Dashboard.git
+
 cd IAM-GRC-Risk-Register-Dashboard
 pip install -r requirements.txt
 streamlit run app.py
