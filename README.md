@@ -12,13 +12,13 @@ This project is designed for IAM, GRC, IT Risk, Access Governance, Security Comp
 ## Project Screenshots
 
 #### Dashboard Overview
-![Dashboard Overview](screenshots/iam-grc-risk-register-dashboard.png)
+![Dashboard Overview](Screenshots/iam-grc-risk-register-dashboard.png)
 
 ### IT Department Filter and Risk Register
-![IT Department Filter and Risk Register](screenshots/it-department-filter-risk-register.png)
+![IT Department Filter and Risk Register](Screenshots/it-department-filter-risk-register.png)
 
 ### Risk Level Distribution
-![Risk Level Distribution](screenshots/iam-grc-risk-findings-by-risk-level.png)
+![Risk Level Distribution](Screenshots/iam-grc-risk-findings-by-risk-level.png)
 ---
 ## Why This Project Matters
 
