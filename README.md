@@ -9,17 +9,7 @@ The goal of this project is to identify risky access patterns, least-privilege v
 This project is designed for IAM, GRC, IT Risk, Access Governance, Security Compliance, and IT Audit learning.
 
 ---
-## Project Screenshots
 
-#### Dashboard Overview
-![Dashboard Overview](Screenshots/iam-grc-risk-register-dashboard.png)
-
-### IT Department Filter and Risk Register
-![IT Department Filter and Risk Register](Screenshots/it-department-filter-risk-register.png)
-
-### Risk Level Distribution
-![Risk Level Distribution](Screenshots/iam-grc-risk-findings-by-risk-level.png)
----
 ## Why This Project Matters
 
 Organizations must regularly review user access to ensure that employees only have the permissions required for their job responsibilities.
