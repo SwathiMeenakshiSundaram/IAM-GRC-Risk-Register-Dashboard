@@ -1,0 +1,21 @@
+UserID,Name,Department,JobRole,EmploymentStatus,SystemAccess,AccessLevel,MFAEnabled,LastLoginDays,LastAccessReviewDays
+U001,Aarav Mehta,Finance,Analyst,Active,Finance_App,Read,Yes,5,30
+U002,Sophia Chen,HR,HR Manager,Active,HR_System,Admin,Yes,12,45
+U003,Liam Patel,IT,System Administrator,Active,Azure_Admin,Admin,Yes,1,20
+U004,Emma Johnson,Finance,Intern,Active,Payroll_System,Admin,No,3,120
+U005,Noah Williams,Marketing,Coordinator,Active,Marketing_CRM,Read,Yes,18,60
+U006,Olivia Brown,Former Employee,Former Employee,Terminated,SharePoint,Write,No,95,200
+U007,Ethan Davis,IT,Helpdesk Analyst,Active,Azure_Admin,Admin,No,7,95
+U008,Ava Wilson,HR,Recruiter,Active,Finance_App,Read,Yes,30,110
+U009,Lucas Martin,Sales,Sales Associate,Active,Salesforce,Write,Yes,8,40
+U010,Mia Thompson,Finance,Finance Manager,Active,Finance_App,Admin,Yes,2,25
+U011,James Anderson,Operations,Operations Analyst,Active,Operations_Portal,Read,No,75,100
+U012,Isabella Garcia,IT,Security Analyst,Active,SIEM_Tool,Admin,Yes,4,35
+U013,Benjamin Lee,Sales,Intern,Active,Salesforce,Admin,No,15,130
+U014,Charlotte Clark,Legal,Legal Counsel,Active,Legal_Docs,Write,Yes,22,80
+U015,Amelia Rodriguez,Former Employee,Former Employee,Terminated,Azure_Admin,Admin,No,150,250
+U016,Henry Walker,Finance,Analyst,Active,Payroll_System,Write,Yes,10,35
+U017,Ella Hall,Marketing,Intern,Active,Marketing_CRM,Write,No,45,85
+U018,Daniel Young,IT,Cloud Engineer,Active,Azure_Admin,Admin,Yes,6,10
+U019,Grace King,HR,HR Assistant,Active,HR_System,Read,No,40,125
+U020,Matthew Scott,Sales,Sales Manager,Active,Salesforce,Admin,Yes,9,50
